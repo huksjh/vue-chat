@@ -1,1 +1,1 @@
-Vue chat test page
+Vue chat 테스트
